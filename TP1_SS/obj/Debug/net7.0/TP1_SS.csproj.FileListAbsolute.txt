@@ -1,0 +1,17 @@
+C:\Users\Duarte\Desktop\3ºano\Sistemas Distr\TP1_SS\obj\Debug\net7.0\TP1_SS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Duarte\Desktop\3ºano\Sistemas Distr\TP1_SS\obj\Debug\net7.0\TP1_SS.AssemblyInfoInputs.cache
+C:\Users\Duarte\Desktop\3ºano\Sistemas Distr\TP1_SS\obj\Debug\net7.0\TP1_SS.AssemblyInfo.cs
+C:\Users\Duarte\Desktop\3ºano\Sistemas Distr\TP1_SS\obj\Debug\net7.0\TP1_SS.csproj.CoreCompileInputs.cache
+C:\Users\Duarte\Desktop\3ºano\Sistemas Distr\TP1_SS\bin\Debug\net7.0\TP1_SS.exe
+C:\Users\Duarte\Desktop\3ºano\Sistemas Distr\TP1_SS\bin\Debug\net7.0\TP1_SS.deps.json
+C:\Users\Duarte\Desktop\3ºano\Sistemas Distr\TP1_SS\bin\Debug\net7.0\TP1_SS.runtimeconfig.json
+C:\Users\Duarte\Desktop\3ºano\Sistemas Distr\TP1_SS\bin\Debug\net7.0\TP1_SS.dll
+C:\Users\Duarte\Desktop\3ºano\Sistemas Distr\TP1_SS\bin\Debug\net7.0\TP1_SS.pdb
+C:\Users\Duarte\Desktop\3ºano\Sistemas Distr\TP1_SS\obj\Debug\net7.0\TP1_SS.dll
+C:\Users\Duarte\Desktop\3ºano\Sistemas Distr\TP1_SS\obj\Debug\net7.0\refint\TP1_SS.dll
+C:\Users\Duarte\Desktop\3ºano\Sistemas Distr\TP1_SS\obj\Debug\net7.0\TP1_SS.pdb
+C:\Users\Duarte\Desktop\3ºano\Sistemas Distr\TP1_SS\obj\Debug\net7.0\TP1_SS.genruntimeconfig.cache
+C:\Users\Duarte\Desktop\3ºano\Sistemas Distr\TP1_SS\obj\Debug\net7.0\ref\TP1_SS.dll
+C:\Users\Duarte\Desktop\3ºano\Sistemas Distr\TP1_SS\obj\Debug\net7.0\TP1_SS.csproj.AssemblyReference.cache
+C:\Users\Duarte\Desktop\3ºano\Sistemas Distr\TP1_SS\bin\Debug\net7.0\CsvHelper.dll
+C:\Users\Duarte\Desktop\3ºano\Sistemas Distr\TP1_SS\obj\Debug\net7.0\TP1_SS.csproj.Up2Date

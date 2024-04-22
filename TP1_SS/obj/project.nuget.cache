@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jMlAolia5w9TQHRfn1s+10jWkl8VvCHt/+sLGQ+AWvCAyqKdoq2nlIuIrwnJtOs41dBQSgHKV0HNYZ5Hj0/jWA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Duarte\\Desktop\\3ºano\\Sistemas Distr\\TP1_SS\\TP1_SS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Duarte\\.nuget\\packages\\csvhelper\\31.0.4\\csvhelper.31.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

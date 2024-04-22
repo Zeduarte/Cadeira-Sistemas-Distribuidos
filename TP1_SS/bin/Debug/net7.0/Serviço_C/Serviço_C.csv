@@ -1,0 +1,7 @@
+TarefaID,Descricao,Estado,ClienteID
+1,Entrega Rápida de Correio e Pacotes Leves,Em curso,CL_0000,
+1,Entrega Rápida de Correio e Pacotes Leves,Concluído,CL_0000,
+2,Coleta de Correspondência,Em curso,CL_0022,
+2,Coleta de Correspondência,Concluído,CL_0022,
+3,Entrega de Encomendas Urgentes,Em curso,CL_0022,
+3,Entrega de Encomendas Urgentes,Concluído,CL_0022,

@@ -1,0 +1,6 @@
+TarefaID,Descricao,Estado,ClienteID
+1,Entrega Rápida de Pizzas,Em curso,CL_0000,
+1,Entrega Rápida de Pizzas,Concluído,CL_0000,
+2,Gerenciamento de Pedidos em Trânsito,Em curso,CL_9999,
+1,Entrega Rápida de Pizzas,Em curso,CL_0000,
+1,Entrega Rápida de Pizzas,Concluído,CL_0000,

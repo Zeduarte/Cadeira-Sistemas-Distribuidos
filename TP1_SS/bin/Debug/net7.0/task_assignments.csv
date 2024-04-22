@@ -1,0 +1,17 @@
+ClienteID,ServicoID,NomeServico
+CL_0000,1,Serviço_B
+CL_0000,2,Serviço_B
+CL_0000,3,Serviço_B
+CL_0000,1,Serviço_A
+CL_0000,4,Serviço_B
+CL_0000,5,Serviço_B
+CL_0000,6,Serviço_B
+CL_0000,1,Serviço_D
+CL_0000,1,Serviço_C
+CL_0022,2,Serviço_C
+CL_0022,3,Serviço_C
+CL_0022,2,Serviço_A
+CL_9999,2,Serviço_D
+CL_0000,1,Serviço_B
+CL_0000,1,Serviço_D
+CL_0000,2,Serviço_B

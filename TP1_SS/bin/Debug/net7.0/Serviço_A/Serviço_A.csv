@@ -1,0 +1,5 @@
+TarefaID,Descricao,Estado,ClienteID
+1,Inspeção Rápida de Áreas Verdes,Em curso,CL_0000,
+1,Inspeção Rápida de Áreas Verdes,Concluído,CL_0000,
+2,Distribuição de Materiais de Jardinagem,Em curso,CL_0022,
+2,Distribuição de Materiais de Jardinagem,Concluído,CL_0022,
